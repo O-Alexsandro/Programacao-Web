@@ -78,19 +78,6 @@ projeto-rick-and-morty
 
 ---
 
-## 🎥 Demonstração em Vídeo
-
-O projeto conta com um vídeo pitch de até 4 minutos, onde são apresentados:
-
-- Funcionamento da aplicação
-- Consumo da API em tempo real
-- Demonstração do código JavaScript
-- Criação dinâmica dos cards
-
-📺 Link do vídeo: *(adicione aqui)*
-
----
-
 ## 📚 Referências
 
 - Documentação da API Rick and Morty  
